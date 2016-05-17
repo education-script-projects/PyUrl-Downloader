@@ -4,8 +4,11 @@
 import wget
 
 def url_downloader():
+	star = "#########################################################"
+	print star
 	indirilecek_url_adresi = raw_input("İndirmek istediğiniz url adresini giriniz : ")
 	dosya_ismi = wget.download(indirilecek_url_adresi)
+	print star
 
 url_downloader_ico = """
 #########################################################
@@ -23,5 +26,3 @@ url_downloader_ico = """
 print url_downloader_ico
 
 url_downloader()
-
-
