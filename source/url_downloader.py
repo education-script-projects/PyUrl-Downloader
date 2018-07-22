@@ -19,7 +19,7 @@ url_downloader_ico = """
 #              DEVELOPER : İSMAİL TAŞDELEN              #                       
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#           Whatsapp : + 90 534 295 94 31               #
+#        GitHub : linkedin.com/in/ismailtasdelen        #
 #########################################################
 """
 
